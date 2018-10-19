@@ -1,0 +1,18 @@
+body{
+
+}
+
+p{
+
+}
+#HandofGod{
+    border:solid 10px blue;
+    float:left;
+    text-align:center;
+    margin: 10px;
+}
+#roundedborders{
+    border:solid 10px blue;
+    border-radius:20px;
+    text-align:center;
+}
