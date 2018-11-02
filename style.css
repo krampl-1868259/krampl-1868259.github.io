@@ -1,0 +1,50 @@
+body{ 
+    background: red;
+    margin: 10px;
+    font-family:"Arial"
+}
+
+fieldset{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 50px;
+    padding-top: 35px
+}
+
+.img-boiko{
+    width: 500px;
+    height: 450px
+}
+
+#Header{
+    text-align:center;
+    margin-top:auto;
+    margin-bottom:auto;
+    border: 10px solid white;
+
+}
+
+.field  {
+    margin: 10px;
+}
+
+input[type=password] {
+    border: 2px solid red;
+    border-radius: 4px;
+    float: right;
+    margin-right: 300px;
+
+}
+
+input[type=text] {
+    border: 2px solid red;
+    border-radius: 4px;
+    float: right;
+    margin-right: 300px;
+}
+
+#Footer{
+    text-align: left;
+    border: dotted 10px white
+}
+
